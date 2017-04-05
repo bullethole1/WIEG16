@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/david_oop/klasser_egenskaper_metoder.php" line="8" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d191558-555f-422b-ae71-041b3e51bfc5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercise-2.php" afterPath="$PROJECT_DIR$/exercise-2.php" />
-    </list>
+    <list default="true" id="4d191558-555f-422b-ae71-041b3e51bfc5" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -208,12 +205,12 @@
       <updated>1490770158396</updated>
       <workItem from="1490770159584" duration="12147000" />
       <workItem from="1491212210961" duration="94000" />
-      <workItem from="1491212344517" duration="3780000" />
+      <workItem from="1491212344517" duration="4159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16021000" />
+    <option name="totallyTimeSpent" value="16400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
