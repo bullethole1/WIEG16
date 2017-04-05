@@ -9,5 +9,5 @@ $string = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
 $array = explode(" ", $string);
 $words = array_count_values($array);
 foreach ($words as $value=>$count){
-    printf("%s words occure %u times<br>", $value, $count);
+    printf("%s words occure %u times<br>", $value,$count);
 }
